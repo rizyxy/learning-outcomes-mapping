@@ -37,3 +37,5 @@ The research follows a structured 5-step computational pipeline:
 * **Curriculum Gaps:** Successfully identified the top 10 most prominent skills in the curriculum, such as *Financial Analysis*, *Animation Development*, and *Accessibility & Inclusion*.
 
 ---
+
+Report URL: https://drive.google.com/file/d/1791OmOq6RJyg9B7ZKLDKz-Wta8cmbzgD/view?usp=sharing
